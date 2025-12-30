@@ -46,11 +46,6 @@ I solve coding problems daily and enjoy turning ideas into real projects 🚀
 
 ## 📊 GitHub Stats
 
-![Nikhil Rajput's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikhilRajput23&show_icons=true&theme=dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=NikhilRajput23&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilRajput23&layout=compact&theme=dark)
 
 ---
 
