@@ -1,25 +1,25 @@
-## 👋 About Me
+##  About Me
 
-🔭 **I’m currently working on**  
+ **I’m currently working on**  
 Building MERN stack projects and improving DSA problem-solving skills.
 
-👯 **I’m looking to collaborate on**  
+ **I’m looking to collaborate on**  
 Open-source MERN stack projects and beginner-friendly Java applications.
 
-🤝 **I’m looking for help with**  
+ **I’m looking for help with**  
 Advanced backend optimization and system design basics.
 
-🌱 **I’m currently learning**  
+ **I’m currently learning**  
 MERN Stack (MongoDB, Express, React, Node.js), Java, and Data Structures & Algorithms.
 
-💬 **Ask me about**  
+ **Ask me about**  
 Java, JavaScript, React basics, MERN projects, and GitHub.
 
-⚡ **Fun fact**  
+ **Fun fact**  
 I solve coding problems daily and enjoy turning ideas into real projects 🚀
 
 
-## 🌐 Socials
+##  Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-rajput-870876288)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikhilrajput3006@gmail.com)
 
