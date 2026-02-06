@@ -1,7 +1,7 @@
 ##  About Me
 
  **I’m currently working on**  
-Building MERN stack projects ,java Project and improving DSA problem-solving skills
+Building MERN stack projects ,JAVA Developer, Android Project and improving DSA problem-solving skills
 
  **I’m looking to collaborate on**  
 Open-source MERN stack projects and beginner-friendly Java applications.
